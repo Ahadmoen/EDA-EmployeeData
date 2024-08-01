@@ -43,4 +43,8 @@ The Tableau workbook (`tableau-empData-salary.twb`) includes the following sheet
 
 This analysis provides valuable insights into how various factors such as position, gender, and experience affect employee salaries. For further decision-making, additional data such as revenues by position would be helpful.
 
+
+## in issue case, you can conatact me
+> email moenahad@gmail.com
+> linkedin www.linkedin.com/in/ahad-moen
 ---
